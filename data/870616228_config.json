@@ -1,0 +1,8 @@
+{
+  "step": "budgets",
+  "income": 500000.0,
+  "budgets": {
+    "food": 200.0,
+    "rent": 100.0
+  }
+}
